@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(41, 41, 41);
+}
+.navbar{
+    background-color: rgba(128, 128, 128, 0.5);
+    backdrop-filter: blur(10px);
+
+}
+.nav .nav-link, .navbar-brand{
+    color: grey;
+    
+}
+.nav-link:hover{
+    color: white;
+}
+.navbar-brand:hover{
+    color: grey;
+}
+.nav .nav-link.custom-sobre-restaurante {
+    background-color: transparent;
+    border: 1px solid rgba(128, 128, 128, .2);
+    color: grey;
+
+}
+.nav-link.custom-sobre-restaurante:hover{
+    background-color: rgba(128, 128, 128, 0.150);
+    color: white;
+}´
+
