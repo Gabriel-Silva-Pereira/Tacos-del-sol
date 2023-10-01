@@ -69,7 +69,13 @@ body {
 .social-links a {
     text-decoration: none;
 }
-
+.custom-icon-color {
+    color: #3a3232;
+}
+.custom-icon-color:hover {
+    color: white;
+    
+}
 @media (max-width: 767px) {
     .carousel-item img {
         height: 280px;
